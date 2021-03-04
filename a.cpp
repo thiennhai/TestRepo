@@ -23,3 +23,8 @@ function sayHi()
 {
 
 }}
+
+function calc()
+{
+
+}
