@@ -2,6 +2,8 @@
 
 int main() 
 {
-    printf("Hello, how are things?");
+    printf("A very fine day.");
+    printf("Hello, how are things???");
+    printf("this is good. \n");
   
 }
