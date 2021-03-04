@@ -17,3 +17,9 @@ int main()
 
  add 100
 }
+
+
+function sayHi()
+{
+
+}}
